@@ -1,0 +1,2 @@
+# ionic-firebase
+ionic-firebase
