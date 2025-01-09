@@ -1,0 +1,7 @@
+{
+  "name": "firebasetest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
